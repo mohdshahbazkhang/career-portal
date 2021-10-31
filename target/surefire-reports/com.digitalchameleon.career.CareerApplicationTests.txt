@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.digitalchameleon.career.CareerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.524 s - in com.digitalchameleon.career.CareerApplicationTests
